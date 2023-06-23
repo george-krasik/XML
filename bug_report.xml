@@ -1,1 +1,13 @@
-
+<bug_report>
+  <id>490<id>
+  <severity>Trivial<severity>
+  <environment>Win 10 Chrome 114<environment>
+  <title>"The title of block “Table of contents” on any news page in “News and Analysis” is not translated if select any language except English"<title>
+  <steps>"1.Navigate to Capital.com 2.Select any language except English 3.Click [News and Analyse] ([News and Analysis]) 4.Click any of news<steps>
+  <note>The bug is also reproduced for the mobile<note>
+  <expected_result>The title of block “Table of contents” is translated into the selected language<expected_result>
+  <actual_result>The title of block “Table of contents” is not translated into the selected language<actual_result>
+  <attachment>https://drive.google.com/file/d/1cI8iEc5cHe4GKwJBycSmGz8o_CFBrf0O/view?usp=sharing<attachment>
+  <bug_started>George Krasik<bug_started>
+</bug_report>
+  
